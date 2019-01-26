@@ -1,22 +1,22 @@
-Project made by using >
-    - Laravel 5.7
-    - jQuery
-    - SASS
+#Project made by using >
+    * Laravel 5.7
+    * jQuery
+    * SASS
    
-Model >
+###Model >
 [app/User.php](app/User.php)
 
-Repository for User model >
+###Repository for User model >
 [app/Repository/UserRepository.php](app/Repository/UserRepository.php)
 
-View >
+###View >
 [resources/views/user.blade.php](resources/views/user.blade.php)
 
-Communication between view and controller (ajax) >
+###Communication between view and controller (ajax) >
 [public/js/custom.js](public/js/custom.js)
 
-Controller >
+###Controller >
 [app/Http/Controllers/UserController.php](app/Http/Controllers/UserController.php)
 
-Routes >
+###Routes >
 [routes/web.php](routes/web.php)
