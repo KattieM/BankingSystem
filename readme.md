@@ -19,3 +19,6 @@
 
 ### Routes 
 [routes/web.php](routes/web.php)
+
+### SQL for database
+[table.sql](table.sql)
