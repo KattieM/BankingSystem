@@ -1,7 +1,6 @@
 # Project made by using 
     * Laravel 5.7
     * jQuery
-    * SASS
    
 ### Model 
 [app/User.php](app/User.php)
