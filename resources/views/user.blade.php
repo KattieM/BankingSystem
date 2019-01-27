@@ -22,7 +22,7 @@
                                 </div>
                                 <div class="form-group">
                                     <label class="" for="balance">Balance</label>
-                                    <input type="number" step=".01" min=0 class="form-control" name="balance" required>
+                                    <input type="number" step="0.01" min=0 class="form-control" name="balance" required lang="en">
                                 </div>
                                 <button type="submit" class="btn btn-secondary">Save User</button>
                             </form>
